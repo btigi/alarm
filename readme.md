@@ -4,7 +4,7 @@ alarm is a  command line application to play an audio file after a specified del
 
 ## Download
 
-Compiled downloads are not available.
+Downloads are available as [Github Releases](https://github.com/btigi/alarm/releases/latest)
 
 ## Compiling
 
