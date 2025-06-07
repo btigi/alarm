@@ -106,7 +106,7 @@ class Program
 
     static void ShowUsage()
     {
-        Console.WriteLine("Usage: AlarmApp -t <time> [-f <audiofile>] [-m <message>]");
+        Console.WriteLine("Usage: alarm -t <time> [-f <audiofile>] [-m <message>]");
         Console.WriteLine("  -t: Time offset (e.g., 5m for 5 minutes, 30s for 30 seconds)");
         Console.WriteLine("  -f: Audio file to play (optional, uses default from appsettings.json if not specified)");
         Console.WriteLine("  -m: Message to display (optional)");
