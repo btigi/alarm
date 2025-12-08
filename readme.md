@@ -23,7 +23,7 @@ $ dotnet build
 
 ## Usage
 
-swavewall is a command line application and should be run from a terminal session. Application usage is
+alarm is a command line application and should be run from a terminal session. Application usage is
 
 ```
 Usage: alarm -t <time> [-f <audiofile>] [-m <message>]
